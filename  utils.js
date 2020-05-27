@@ -17,3 +17,4 @@ console.log(power(2,4));
 function subtract(g,h) {
     return g-h
 }
+console.log(subtract(10,4));
