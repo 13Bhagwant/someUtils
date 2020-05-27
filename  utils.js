@@ -14,3 +14,6 @@ function power(e,f) {
 }
 console.log(power(2,4));
 
+function subtract(g,h) {
+    return g-h
+}
