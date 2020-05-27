@@ -9,3 +9,8 @@ function divide(c,d) {
 }
 console.log(divide(10,5));
 
+function power(e,f) {
+    return e ** f
+}
+console.log(power(2,4));
+
